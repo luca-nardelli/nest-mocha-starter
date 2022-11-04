@@ -1,0 +1,33 @@
+{
+  "sortFirst": [
+    "name",
+    "version",
+    "private",
+    "description",
+    "keywords",
+    "license",
+    "author",
+    "homepage",
+    "repository",
+    "bugs",
+    "files",
+    "directories",
+    "bin",
+    "main",
+    "module",
+    "browser",
+    "module",
+    "unpkg",
+    "jsdelivr",
+    "types",
+    "scripts",
+    "dependencies",
+    "devDependencies",
+    "peerDependencies",
+    "bundledDependencies",
+    "optionalDependencies",
+    "engines",
+    "packageManager",
+    "pnpm"
+  ]
+}
