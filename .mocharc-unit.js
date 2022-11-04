@@ -10,8 +10,6 @@ module.exports = {
   timeout: 10000,
   // require: '@swc/register',
   // require: 'ts-node/register',
-  file: [
-  ],
   spec: [
     './**/*.spec.ts',
   ]
